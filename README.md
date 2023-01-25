@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bsaltalii
 - 👀 I’m studying Software Engineering
-- 🌱 I’m currently learning Website Designing
+- 🌱 I’m currently learning Programming
 
 - 📫 How to reach me bsaltali26@gmail.com
 
