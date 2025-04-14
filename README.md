@@ -34,8 +34,8 @@
 
 ### ⚙️ System & Optimization
 - C/C++, Multithreading, POSIX Threads
-- Java (Data Structures, Algorithms)
-- MATLAB (ML & Optimization)
+- Java (Data Structures, Algorithms, Design Patterns, Optimization Algorithms)
+- MATLAB (Machine Learning & Optimization)
 
 ### 📦 Tools
 `Git` `GitHub` `Postman` `VS Code` `Android Studio` `Xcode` 
