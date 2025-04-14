@@ -64,12 +64,4 @@
 
 ---
 
-## 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines='Discipline+beats+motivation';'Build+what+you+wish+existed';'Code.+Fail.+Learn.+Repeat.'" />
-</p>
-
----
-
 <p align="center"><b>🔥 Thanks for stopping by! Let's build something amazing! 🔥</b></p>
