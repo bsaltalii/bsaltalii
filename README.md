@@ -38,7 +38,7 @@
 - MATLAB (ML & Optimization)
 
 ### 📦 Tools
-`Git` `GitHub` `Postman` `VS Code` `Android Studio` `Xcode` `Figma` `Photoshop` `Office Suite`
+`Git` `GitHub` `Postman` `VS Code` `Android Studio` `Xcode` 
 
 ---
 
