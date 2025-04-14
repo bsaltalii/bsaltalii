@@ -25,12 +25,11 @@
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile & Web
-- React Native (TypeScript), Flutter (Dart)
+- React (TypeScript), Flutter (Dart)
 - HTML, CSS, Bootstrap, JavaScript, React
 
 ### 💻 Backend & DB
 - .NET Core, .NET MVC, C#, Entity Framework
-- Node.js (Exploring)
 - MSSQL, SQLite, Firebase (Auth & Firestore)
 
 ### ⚙️ System & Optimization
