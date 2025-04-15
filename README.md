@@ -51,7 +51,6 @@
 
 🤖 Learning the fundamentals of Machine Learning with MATLAB
 
-🔬 Exploring optimization techniques like Genetic Algorithms and Simulated Annealing
 ---
 
 ## 🌍 Let's Connect
@@ -62,6 +61,3 @@
   <a href="https://github.com/bsaltalii"><img src="https://img.icons8.com/ios-glyphs/40/github.png"/></a>
 </p>
 
----
-
-<p align="center"><b>🔥 Thanks for stopping by! Let's build something amazing! 🔥</b></p>
