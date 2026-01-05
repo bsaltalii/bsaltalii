@@ -1,63 +1,91 @@
-![](https://komarev.com/ghpvc/?username=Notorious0&style=flat&color=blue)
+# Hi, I'm Burak Saltalı 👋
 
-<h1 align="center">Hi there 👋, I'm Burak Saltalı</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F58A&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+;Flutter+%2B+.NET+Full-Stack+Dev;Mobile+%2F+Web+%2F+Backend+Projects;Terminal+Games+Lover;Tech+%26+Open+Source+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="280"/>
-</p>
+Software Engineering student with a strong interest in  
+**secure backend systems, mobile applications, and AI-powered software**.
 
 ---
 
-## 🚀 About Me
+## 🔍 About Me
 
-🎓 I'm a Software Engineering student. 
-
-🧠 I'm currently improving myself in **mobile development, backend systems, web development** and **system-level programming**.  
-
-🛠️ I build mobile apps with **Flutter**, and backend systems using **.NET Core & Firebase**.  
+- 🎓 B.Sc. in Software Engineering 
+- 💡 Interested in **security-oriented backend systems**, **clean architecture**, and **applied AI**
+- 🌍 Experienced in international teamwork through **Erasmus+ Youth Exchange programs**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile & Web
-- React (TypeScript), Flutter (Dart)
-- HTML, CSS, Bootstrap, JavaScript, React
+**Languages**
+- Java, C#, C, Dart, JavaScript, MATLAB
 
-### 💻 Backend & DB
-- .NET Core, .NET MVC, C#, Entity Framework
-- MSSQL, SQLite, Firebase (Auth & Firestore)
+**Backend & Security**
+- .NET Core, Entity Framework, SQL
+- Authentication & Authorization concepts
+- Secure-by-Design principles
 
-### ⚙️ System & Optimization
-- C/C++, Multithreading, POSIX Threads
-- Java (Data Structures, Algorithms, Design Patterns, Optimization Algorithms)
-- MATLAB (Machine Learning & Optimization)
+**Mobile & Frontend**
+- Flutter (Dart)
+- React, HTML, CSS
 
-### 📦 Tools
-`Git` `GitHub` `Postman` `VS Code` `Android Studio` `Xcode` 
+**AI & Data**
+- NLP, Semantic Search
+- Machine Learning fundamentals (MATLAB)
+- Optimization Algorithms
 
----
-
-✨ Currently Working On
-📱 Building advanced Flutter apps with better state management & animations
-
-💻 Developing React + TypeScript projects with clean architecture
-
-🔧 Backend improvements with .NET Core / MVC, Entity Framework & SQL
-
-🤖 Learning the fundamentals of Machine Learning with MATLAB
+**Tools**
+- Git, GitHub, Docker, Postman
 
 ---
 
-## 🌍 Let's Connect
+## 🚀 Selected Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bsaltalii/"><img src="https://img.icons8.com/doodle/40/linkedin--v2.png"/></a>
-  <a href="mailto:bsaltali26@gmail.com"><img src="https://img.icons8.com/doodle/38/gmail-new.png"/></a>
-  <a href="https://github.com/bsaltalii"><img src="https://img.icons8.com/ios-glyphs/40/github.png"/></a>
-</p>
+### 🔐 AI-Based Patent Search System (Ongoing)
+**React · Python · Elasticsearch · NLP · Docker**
 
+- Domain-specific semantic patent search platform
+- Hybrid architecture combining Boolean logic with embedding-based similarity
+- Advanced query builder for complex patent filtering
+- Designed for scalability, accuracy, and low-latency search
+
+---
+
+### 🌱 Plant Care Mobile App
+**Flutter · Supabase · Gemini AI**
+
+- Mobile app for personalized plant management
+- AI-based image analysis for basic plant disease detection
+- Authentication and user-specific data handling
+
+---
+
+### 🧩 Design Patterns & SOLID Principles
+**Java**
+
+- Practical implementations of GoF design patterns
+- Focus on clean architecture and object-oriented design
+
+---
+
+### 📊 Machine Learning & Optimization Algorithms
+**MATLAB · Java**
+
+- Implemented supervised & unsupervised ML algorithms
+- Classical and metaheuristic optimization techniques
+- Algorithm comparison and analysis on sample problems
+
+---
+
+## 🎯 Focus Areas
+
+- Secure backend development
+- Mobile-first product design
+- AI-assisted software solutions
+- Clean code & scalable architectures
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bsaltalii  
+- 📧 Email: bsaltali26@gmail.com  
+- 💻 GitHub: https://github.com/bsaltalii
