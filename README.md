@@ -9,7 +9,6 @@ Software Engineering student with a strong interest in
 
 - 🎓 B.Sc. in Software Engineering 
 - 💡 Interested in **security-oriented backend systems**, **clean architecture**, and **applied AI**
-- 🌍 Experienced in international teamwork through **Erasmus+ Youth Exchange programs**
 
 ---
 
